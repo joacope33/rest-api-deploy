@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "schemas",
+			"path": "../clase 3/schemas"
+		},
+		{
+			"name": "web",
+			"path": "../clase 3/web"
+		},
+		{
+			"name": "node_modules",
+			"path": "../clase 3/node_modules"
+		},
+		{
+			"name": "rest-api-deploy",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
